@@ -2,6 +2,11 @@
 
 A Flutter project to show the TextSpan and the WidgetSpan come across in RichText in LTR context.
 
+## Screenshots
+
+![Screenshot1](https://raw.githubusercontent.com/BlakeWuh/span_bug_demo/main/Screenshots2022-03-02%20PM%201.58.49.png)
+![Screenshot2](https://raw.githubusercontent.com/BlakeWuh/span_bug_demo/main/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202022-03-02%20at%2014.01.43%20%232.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
